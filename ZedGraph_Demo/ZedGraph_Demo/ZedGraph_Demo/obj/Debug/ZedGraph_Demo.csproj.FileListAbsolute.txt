@@ -1,0 +1,13 @@
+F:\VS2017Project\ZedGraph_Demo\ZedGraph_Demo\ZedGraph_Demo\bin\Debug\ZedGraph_Demo.exe.config
+F:\VS2017Project\ZedGraph_Demo\ZedGraph_Demo\ZedGraph_Demo\bin\Debug\ZedGraph_Demo.exe
+F:\VS2017Project\ZedGraph_Demo\ZedGraph_Demo\ZedGraph_Demo\bin\Debug\ZedGraph_Demo.pdb
+F:\VS2017Project\ZedGraph_Demo\ZedGraph_Demo\ZedGraph_Demo\bin\Debug\FTD2XX_NET.dll
+F:\VS2017Project\ZedGraph_Demo\ZedGraph_Demo\ZedGraph_Demo\bin\Debug\ZedGraph.dll
+F:\VS2017Project\ZedGraph_Demo\ZedGraph_Demo\ZedGraph_Demo\obj\Debug\ZedGraph_Demo.csprojResolveAssemblyReference.cache
+F:\VS2017Project\ZedGraph_Demo\ZedGraph_Demo\ZedGraph_Demo\obj\Debug\ZedGraph_Demo.Form1.resources
+F:\VS2017Project\ZedGraph_Demo\ZedGraph_Demo\ZedGraph_Demo\obj\Debug\ZedGraph_Demo.Properties.Resources.resources
+F:\VS2017Project\ZedGraph_Demo\ZedGraph_Demo\ZedGraph_Demo\obj\Debug\ZedGraph_Demo.csproj.GenerateResource.cache
+F:\VS2017Project\ZedGraph_Demo\ZedGraph_Demo\ZedGraph_Demo\obj\Debug\ZedGraph_Demo.csproj.CoreCompileInputs.cache
+F:\VS2017Project\ZedGraph_Demo\ZedGraph_Demo\ZedGraph_Demo\obj\Debug\ZedGraph_Demo.csproj.CopyComplete
+F:\VS2017Project\ZedGraph_Demo\ZedGraph_Demo\ZedGraph_Demo\obj\Debug\ZedGraph_Demo.exe
+F:\VS2017Project\ZedGraph_Demo\ZedGraph_Demo\ZedGraph_Demo\obj\Debug\ZedGraph_Demo.pdb
